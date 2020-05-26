@@ -1,0 +1,4 @@
+﻿  task 1.cpp
+F:\Commits\Cpp\task 1.cpp(216,10): warning C4101: 'id': unreferenced local variable
+F:\Commits\Cpp\task 1.cpp(241,10): warning C4101: 'id': unreferenced local variable
+  Inheritance 2.vcxproj -> F:\Commits\Cpp\Inheritance 2\Debug\Inheritance 2.exe
