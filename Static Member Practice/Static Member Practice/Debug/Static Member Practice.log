@@ -1,0 +1,3 @@
+﻿  Lab task 2.cpp
+F:\Commits\Cpp\Static Member Practice\Lab task 2.cpp(38,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Static Member Practice.vcxproj -> F:\Commits\Cpp\Static Member Practice\Debug\Static Member Practice.exe
