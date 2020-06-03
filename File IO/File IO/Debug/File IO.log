@@ -1,0 +1,4 @@
+﻿  Task1.cpp
+F:\Commits\Cpp\File IO\Task1.cpp(28,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\Commits\Cpp\File IO\Task1.cpp(53,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  File IO.vcxproj -> F:\Commits\Cpp\File IO\Debug\File IO.exe
